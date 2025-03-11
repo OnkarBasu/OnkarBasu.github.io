@@ -10,5 +10,5 @@ Streamlit App Development & Deployment:Developed an interactive Streamlit app in
 Enhanced the UI with modern design elements, emoticons, and dynamic graphics.
 Successfully deployed the app on Streamlit Cloud, making it accessible online.
 site link - https://bankdepositapp101.streamlit.app/
-<img src="path/to/image.png" alt="Alt text" width="300">
+<img src="Screenshot 2025-03-11 221235.png" alt="Alt text" width="300">
 
